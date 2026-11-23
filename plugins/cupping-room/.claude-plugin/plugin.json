@@ -1,10 +1,19 @@
 {
   "name": "cupping-room",
   "displayName": "Cupping Room",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Find and compare coffees by taste, brew method, origin and budget in a catalog of 7,776 source-labeled records.",
-  "author": {"name": "Luke Burns"},
+  "author": {
+    "name": "Luke Burns",
+    "url": "https://github.com/llbu"
+  },
   "homepage": "https://cupping-room.lucas-burns112710.chatgpt.site",
   "repository": "https://github.com/llbu/cupping-room",
-  "keywords": ["coffee", "espresso", "brewing", "tasting", "comparison"]
+  "keywords": [
+    "coffee",
+    "espresso",
+    "brewing",
+    "tasting",
+    "comparison"
+  ]
 }
