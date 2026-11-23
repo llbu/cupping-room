@@ -15,5 +15,8 @@
     "brewing",
     "tasting",
     "comparison"
-  ]
+  ],
+  "privacyPolicyUrl": "https://github.com/llbu/cupping-room/blob/main/plugins/cupping-room/README.md#privacy-and-sources",
+  "documentationUrl": "https://github.com/llbu/cupping-room/blob/main/plugins/cupping-room/README.md",
+  "supportUrl": "https://github.com/llbu/cupping-room/issues"
 }
