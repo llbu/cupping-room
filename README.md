@@ -1,6 +1,6 @@
 # Cupping Room for Claude
 
-Find coffees by taste, brew method and budget. Compare bags on the same weight basis, explore reported origins, and see the source for each result. The public catalog includes 7,776 coffee records. It runs in Claude's code environment and requires no separate coffee account.
+Find coffees by taste, brew method and budget. Compare bags on the same weight basis, explore reported origins, and see the source for each result. The public catalog includes 7,776 coffee records. The plugin includes its own catalog and requires no separate coffee account.
 
 In Claude, use **Plugins → Add marketplace** and enter `llbu/cupping-room`, then install **Cupping Room**. In Claude Code:
 
