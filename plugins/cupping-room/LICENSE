@@ -1,0 +1,30 @@
+Cupping Room plugin
+Copyright 2026 Luke Burns.
+
+Permission is granted to download, install and use this plugin for coffee
+discovery and comparison. All other rights in the original software and
+editorial material are reserved, subject to applicable platform terms.
+Product and roaster names belong to their respective owners.
+
+Open Food Facts data
+The community-*.jsonl files are an adapted database drawn from Open Food
+Facts by its contributors. The Open Database License 1.0 applies to this
+adapted database, and the Database Contents License 1.0 applies to its
+individual contents. The software permission above does not restrict
+rights granted under those licenses.
+
+Source database and downloads
+https://world.openfoodfacts.org/data
+
+Open Database License 1.0
+https://opendatacommons.org/licenses/odbl/1-0/
+
+Database Contents License 1.0
+https://opendatacommons.org/licenses/dbcl/1-0/
+
+Cupping Room filtered the source for coffee records, normalized descriptors
+and quantities, mapped product fields and retained source identifiers and
+observation dates. The complete community database used by this plugin is
+provided as machine-readable UTF-8 JSON Lines in
+skills/coffee-guide/references/community-*.jsonl within this plugin.
+The official-01.jsonl file contains Cupping Room's separate editorial catalog.
