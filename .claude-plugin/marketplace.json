@@ -1,0 +1,16 @@
+{
+  "name": "cupping-room-catalog",
+  "owner": {
+    "name": "Luke Burns"
+  },
+  "plugins": [
+    {
+      "name": "cupping-room",
+      "source": "./plugins/cupping-room",
+      "description": "Find coffees, compare bags and match roaster profiles to your taste."
+    }
+  ],
+  "metadata": {
+    "description": "Explore and compare source-labeled coffees with Cupping Room."
+  }
+}
