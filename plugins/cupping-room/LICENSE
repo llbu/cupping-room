@@ -7,7 +7,7 @@ editorial material are reserved, subject to applicable platform terms.
 Product and roaster names belong to their respective owners.
 
 Open Food Facts data
-The community-*.jsonl files are an adapted database drawn from Open Food
+The community-*.json files are an adapted database drawn from Open Food
 Facts by its contributors. The Open Database License 1.0 applies to this
 adapted database, and the Database Contents License 1.0 applies to its
 individual contents. The software permission above does not restrict
@@ -25,6 +25,6 @@ https://opendatacommons.org/licenses/dbcl/1-0/
 Cupping Room filtered the source for coffee records, normalized descriptors
 and quantities, mapped product fields and retained source identifiers and
 observation dates. The complete community database used by this plugin is
-provided as machine-readable UTF-8 JSON Lines in
-skills/coffee-guide/references/community-*.jsonl within this plugin.
-The official-01.jsonl file contains Cupping Room's separate editorial catalog.
+provided as machine-readable UTF-8 JSON in
+skills/coffee-guide/catalog/community-*.json within this plugin.
+The roaster-profiles.json file contains Cupping Room's separate editorial catalog.

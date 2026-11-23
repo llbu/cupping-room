@@ -12,7 +12,7 @@ The catalog snapshot was assembled on November 23, 2026. Prices are dated USD ob
 
 ## Installation and support
 
-In Claude, add the GitHub marketplace `llbu/cupping-room` from Plugins, then install **Cupping Room**. In Claude Code, run `/plugin marketplace add llbu/cupping-room` followed by `/plugin install cupping-room@cupping-room-catalog`. Ask one of the questions above. The included lookup uses Python 3 and its standard library. If code execution is disabled, enable it or browse the web catalog.
+In Claude, add the GitHub marketplace `llbu/cupping-room` from Plugins, then install **Cupping Room**. In Claude Code, run `/plugin marketplace add llbu/cupping-room` followed by `/plugin install cupping-room@cupping-room-catalog`. Ask one of the questions above. Claude reads the packaged coffee records and taste-match tables. If the plugin is unavailable on your device, browse the web catalog.
 
 Send corrections or reproducible problems through the repository's Issues page. Include the coffee's name or record ID and the field that needs attention. A private tasting journal is available separately on the Cupping Room website.
 
@@ -20,7 +20,7 @@ Send corrections or reproducible problems through the repository's Issues page. 
 
 ## Privacy and sources
 
-The plugin filters a packaged catalog within the environment where Claude runs it. It sends no queries to Cupping Room or to roasters, opens no network connections, and stores no user profiles, identifiers, ratings or conversations. Claude handles the host conversation under its own settings and policies. Selecting a source link visits the destination under its own privacy policy. Rankings use only the catalog and the preferences supplied for that request.
+The plugin supplies reference data and instructions for use within Claude. It contains no executable scripts. It sends no queries to Cupping Room or to roasters, opens no network connections, and stores no user profiles, identifiers, ratings or conversations. Claude handles the host conversation under its own settings and policies. Selecting a source link visits the destination under its own privacy policy. Rankings use only the catalog and the preferences supplied for that request.
 
 Community records are adapted from Open Food Facts. The community database is available under the Open Database License 1.0, and individual database contents under the Database Contents License 1.0. See the license file for attribution, download and reuse details.
 
